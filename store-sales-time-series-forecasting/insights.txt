@@ -1,0 +1,9 @@
+1. Min and Max Dates
+holiday_date: Min -> 2012-03-02 00:00:00 | Max -> 2017-12-26 00:00:00
+oil_date: Min -> 2013-01-01 00:00:00 | Max -> 2017-08-31 00:00:00
+train_date: Min -> 2013-01-01 00:00:00 | Max -> 2017-08-15 00:00:00
+HOLIDAY has the highest range of dates and oil_date has the second highest.
+
+# store_nbr:-> min=1 & max=54
+
+

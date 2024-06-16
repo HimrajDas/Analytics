@@ -1,0 +1,14 @@
+# CryoSleep And Transported Relationship:
+    1. People who are not in CryoSleep tend to Transported less. And people who are in CryoSleep tend to Transported more. Missing values have almose same percentage of True and False values of Transported.
+
+# VIP And Transported Relationship:
+    1. People who are not in VIP just have a little more success rate than failure. And people who are in VIP have a little more failure rate than success rate. Nan values have 50-50.
+
+
+# About Passengers:
+    1. Highest number of passengers are from earth. Second are from Europa and third is Mars.
+    
+    2. Most people's destination is TRAPPIST-1e. Second is 55 Cancri e and third is PSO J318.5-22.
+
+    
+
